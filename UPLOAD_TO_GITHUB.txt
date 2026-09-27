@@ -1,0 +1,7 @@
+JANTA.EXE — GitHub Upload
+
+1. Create a GitHub repository named JANTA-EXE.
+2. Upload ALL files/folders in this folder to the repository ROOT.
+3. Do NOT upload this ZIP itself as the project.
+4. Keep .env empty/not committed. Copy .env.example later and add your Supabase values.
+5. The main project files should include package.json, app/, lib/, supabase/, app.json and eas.json.
